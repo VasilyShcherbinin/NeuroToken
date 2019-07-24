@@ -1,4 +1,4 @@
-# NeuroToken
+# NeuroToken (LSTM + Soundex)
 Capturing Author Style with LSTM and Soundex Tokens.
 
 This project aims to provide another perspective to the problem of embedding author style into the machine learning process - to create
